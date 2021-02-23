@@ -2,7 +2,6 @@
 import random
 
 lot = random.randint(1, 10)
-print(lot)
 answer = input('Choose your number from 1 to 10:')
 
 while True:
